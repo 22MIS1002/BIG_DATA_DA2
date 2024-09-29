@@ -10,11 +10,11 @@ To run this implementation, you'll need the following software installed on your
 
 Python 3.x
 Libraries:
-pandas
-numpy
-minisom
-scikit-learn
-matplotlib
+. pandas
+. numpy
+. minisom
+. scikit-learn
+. matplotlib
 To install the required libraries, you can run the following command:
 pip install pandas numpy minisom scikit-learn matplotlib
 ## 4. Hardware Requirements
