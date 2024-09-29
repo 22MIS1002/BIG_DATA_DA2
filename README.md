@@ -8,7 +8,6 @@ The dataset used in this project is Mall_Customers.csv, which includes informati
 ## 3. Software Requirements
 To run this implementation, you'll need the following software installed on your system:
 
-Python 3.x
 Libraries:
 . pandas
 . numpy
