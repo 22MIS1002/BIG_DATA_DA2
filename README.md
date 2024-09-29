@@ -17,7 +17,7 @@ scikit-learn
 matplotlib
 To install the required libraries, you can run the following command:
 pip install pandas numpy minisom scikit-learn matplotlib
-# 4. Hardware Requirements
+## 4. Hardware Requirements
 CPU: Any modern processor (Intel/AMD with at least 2 cores)
 RAM: Minimum of 4 GB (8 GB recommended)
 Disk Space: ~500MB of free disk space
